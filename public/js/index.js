@@ -1,3 +1,5 @@
+'use strict';
+
 // DOM
 const playground = document.querySelector('.playground > ul');
 const gameover = document.querySelector('.gameover');
